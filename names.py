@@ -10,7 +10,8 @@ def print_dict(dict):
         for value in data:
             print '%d - %s %s - %d ' % (count, value.values()[0], value.values()[1], len(value.values()[0])+len(value.values()[1]))
 
-
+# You certainly put the built-in Python methods to the test here.  Well done.  It comes down to preference and comfort when using these
+# built-ins. 
 
 #Function Test
 #Part 1
